@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomMediaTypeFormatterWebAPI_Demo", "CustomMediaTypeFormatterWebAPI_Demo\CustomMediaTypeFormatterWebAPI_Demo.csproj", "{A65FA0D8-16F3-4C1B-BFFE-EF46DB94D90F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A65FA0D8-16F3-4C1B-BFFE-EF46DB94D90F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A65FA0D8-16F3-4C1B-BFFE-EF46DB94D90F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A65FA0D8-16F3-4C1B-BFFE-EF46DB94D90F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A65FA0D8-16F3-4C1B-BFFE-EF46DB94D90F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27941DCE-B0EB-44D2-8377-88BE2DA7FB9A}
+	EndGlobalSection
+EndGlobal
